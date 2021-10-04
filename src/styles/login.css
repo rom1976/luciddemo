@@ -1,0 +1,9 @@
+.login-card {
+  border-radius: 1rem;
+}
+
+.login-card:hover {
+  border: solid snow;
+  border-radius: 1rem;
+}
+/*# sourceMappingURL=login.css.map */
