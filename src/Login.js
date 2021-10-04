@@ -117,11 +117,11 @@ const Login = () => {
       <>
         <div className="container p-5">
           <h1>{org}</h1>
-          <div className="row d-flex justify-content-center ">
-            <div className="col-md-4"></div>
-            <div className="col-md-4 h-100">
+          <div className="row ">
+            
+            <div className="col-md-12 d-flex justify-content-center h-100">
 
-             <Card className= "mt-5 shadow-lg hoverable login-card">
+             <Card className= "shadow-lg login-card">
               <Card.Body>
               <div>
               <h3>Login</h3>
@@ -168,9 +168,9 @@ const Login = () => {
               </Card.Body>    
              </Card>
             </div>
-            <div className="col-md-4">
+            
               <h2> {message} </h2>
-            </div>
+            
           </div>
         </div>
       </>
