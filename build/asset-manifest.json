@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/luciddemo/static/css/main.58236594.chunk.css",
-    "main.js": "/luciddemo/static/js/main.43be4188.chunk.js",
-    "main.js.map": "/luciddemo/static/js/main.43be4188.chunk.js.map",
+    "main.css": "/luciddemo/static/css/main.8b405f64.chunk.css",
+    "main.js": "/luciddemo/static/js/main.b38bff11.chunk.js",
+    "main.js.map": "/luciddemo/static/js/main.b38bff11.chunk.js.map",
     "runtime-main.js": "/luciddemo/static/js/runtime-main.c2cda480.js",
     "runtime-main.js.map": "/luciddemo/static/js/runtime-main.c2cda480.js.map",
     "static/js/2.74b8aba9.chunk.js": "/luciddemo/static/js/2.74b8aba9.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.b464b1de.chunk.js": "/luciddemo/static/js/3.b464b1de.chunk.js",
     "static/js/3.b464b1de.chunk.js.map": "/luciddemo/static/js/3.b464b1de.chunk.js.map",
     "index.html": "/luciddemo/index.html",
-    "static/css/main.58236594.chunk.css.map": "/luciddemo/static/css/main.58236594.chunk.css.map",
+    "static/css/main.8b405f64.chunk.css.map": "/luciddemo/static/css/main.8b405f64.chunk.css.map",
     "static/js/2.74b8aba9.chunk.js.LICENSE.txt": "/luciddemo/static/js/2.74b8aba9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c2cda480.js",
     "static/js/2.74b8aba9.chunk.js",
-    "static/css/main.58236594.chunk.css",
-    "static/js/main.43be4188.chunk.js"
+    "static/css/main.8b405f64.chunk.css",
+    "static/js/main.b38bff11.chunk.js"
   ]
 }

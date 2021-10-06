@@ -14,7 +14,7 @@ const Login = () => {
   const [menulist, setMenuList] = useState([]);
   const [org, setOrg] = useState([]);
   const [searchTerm, setSearchTerm] = useState("");
-  const [sidenavstyle,setStyle] = useState({width:'250px'});
+  const [sidenavstyle,setStyle] = useState({width:'0px', opacity:0});
   
 
   const submitHandler = () => {
