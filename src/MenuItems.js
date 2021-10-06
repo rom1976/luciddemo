@@ -4,11 +4,14 @@ import { faEgg } from "@fortawesome/free-solid-svg-icons";
 import { faSeedling } from "@fortawesome/free-solid-svg-icons";
 import Count from "./Count";
 
+import {useTransition, animated} from 'react-spring';
+
 const MenuItems = ({items }) => {
     
     return items.map((a, id) => {    
       return (
         <div className="col mb-3">
+          
           <Card
             key={id}
             border="primary"
